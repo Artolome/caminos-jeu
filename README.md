@@ -6,9 +6,11 @@ Un voyage illustré à la première personne pour apprendre l’espagnol, niveau
 
 ## Jouer
 
-Ouvrir le lien ci-dessus dans un navigateur récent. Maintenir la flèche ↑, W, Z, Espace ou le bouton à l’écran pour avancer. Continuer les dialogues avec Entrée et choisir avec les touches 1, 2, 3 ou les boutons.
+Maintenir la flèche ↑, W, Z, Espace ou le bouton à l’écran pour avancer. Continuer les dialogues avec Entrée et choisir avec les touches 1, 2, 3 ou les boutons.
 
-Les sauvegardes restent dans le navigateur. Three.js et les polices sont chargés en ligne.
+Au début du voyage, Sancho a besoin d’aide : Rucio a soif. Prendre la gourde sur le tabouret, la remplir à la fontaine et donner à boire à l’âne. Les dessins sont cliquables ; les touches 1, 2, 3 et les boutons tactiles permettent aussi d’agir. Rucio boit dans son abreuvoir, et cinq expressions rejoignent le carnet. Des indices et une traduction accompagnent la mission.
+
+Les sauvegardes restent dans le navigateur, y compris chaque étape de la mission. Three.js et les polices sont chargés en ligne.
 
 ## Publication
 
