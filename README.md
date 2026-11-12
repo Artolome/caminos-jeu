@@ -16,6 +16,16 @@ Au début du voyage, Sancho a besoin d’aide : Rucio a soif. Prendre la gourde,
 
 Les missions proposent des indices, une traduction et un mode adapté à la préférence de mouvements réduits du navigateur. Les sauvegardes restent dans le navigateur, y compris les objets trouvés. Three.js et les polices sont chargés en ligne.
 
+## Suivi de classe
+
+Le suivi est facultatif. Sans code de classe, le jeu n'envoie rien.
+
+Sur l'écran d'accueil, l'élève écrit le code de classe dans le cadre *Clase · Classe*. Le jeu lui tire au sort un nom de voyageur, par exemple « Colibrí Valiente 27 », et lui donne une clé à 4 chiffres, affichée une seule fois. Aucun nom, prénom, e-mail ni compte d'élève n'est enregistré : les élèves sont suivis sous ce pseudonyme.
+
+[Page du professeur](https://artolome.github.io/caminos-jeu/profe.html) : elle s'ouvre avec le compte professeur de Charlemos. Les classes et leurs codes sont les mêmes que dans Charlemos. Elle montre l'avancée de chaque voyageur, donne une nouvelle clé, supprime un voyageur et exporte la classe en CSV.
+
+Sur un poste partagé, chaque élève clique sur *Salir de la clase* à la fin de la séance.
+
 ## Publication
 
-Ce dépôt contient uniquement la version jouable destinée à GitHub Pages. La publication utilise la branche `main`, dossier racine. `index.html` intègre les illustrations du jeu ; `.nojekyll` permet de le servir sans transformation.
+Ce dépôt contient uniquement la version jouable destinée à GitHub Pages. La publication utilise la branche `main`, dossier racine. `index.html` intègre les illustrations du jeu ; `.nojekyll` permet de le servir sans transformation. `profe.html` est la page du professeur pour le suivi de classe.
